@@ -1,4 +1,4 @@
-# Multi-Country Sales Performance Analysis
+# multi-country sales performance analysis
 
 ## Project Overview
 
